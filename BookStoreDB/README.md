@@ -10,6 +10,7 @@ In this catalog you can find SQL code for Book Store database. It has 8 tables:
 - Genre
 - Author
 - Author_has_Book
+- Employee
 
 This database enables to manage bookstore, with collected data you can check bestsellers, find top genres, publishers or authors.
 
